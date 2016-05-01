@@ -23,7 +23,7 @@ Nasze projekty:
 1. [D Lachowicz](https://github.com/Alphacentauri01).
 1. [Michał Lewandowski](https://github.com/lewand16).
 1. SL Majewska
-1. [Jacek Mankiewicz](http://github.com/JacekMMC/), [Repozytorium](https://github.com/JacekMMC/zadanie-1).
+1. [Jacek Mankiewicz](http://github.com/JacekMMC/), [Repozytorium](https://github.com/JacekMMC/zadanie-1), [Strona](http://jacekmmc.github.io/wyzyna-/).
 1. [Elżbieta Mariola Ostrowska-Janczak](https://github.com/eleczka).
 1. [Maria Pieper](https://github.com/borowianka).
 1. [Marcin Puciato](https://github.com/mpuciato).
